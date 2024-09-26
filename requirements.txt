@@ -1,8 +1,4 @@
 streamlit
-os
-time
-datetime
 playsound
-path
 gtts
 PyPDF2
