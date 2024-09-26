@@ -1,6 +1,8 @@
-
-import streamlit as st
-import os
-import time
-import datetime as dt
-import random
+streamlit
+os
+time
+datetime
+playsound
+path
+gtts
+PyPDF2
